@@ -12,7 +12,7 @@ Bu proje, MRI görüntülerinden Alzheimer hastalığının evrelerini sınıfla
 ##  Model Kullanımı
 Gradio arayüzü ile kullanıcılar MRI görüntüsü yükleyerek modelin tahminini görebilir.
 
-##  Veri Kümesi
+##  Veri Seti
 Veri setine aşağıdaki bağlantıdan erişebilirsiniz:
 
 🔗 [Veri Setini İndir](https://www.kaggle.com/code/mohamedgobara/augmented-alzheimer-mri-dataset-with-93-5/input)
